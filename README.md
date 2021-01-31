@@ -7,3 +7,7 @@ Some more line of text.
 ### How to contribute
 
 #### Deployment
+
+##### Copyright
+
+2021 etc.
