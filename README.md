@@ -6,6 +6,8 @@ Some more line of text.
 
 ### How to contribute
 
+Please fork this repository and 
+
 #### Deployment
 
 ##### Copyright
