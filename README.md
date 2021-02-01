@@ -1,7 +1,7 @@
 # Starter Web Repo
 This is a simple github repo to demonstrate git and github.
 Some more line of text.
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## Purpose
 
