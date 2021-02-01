@@ -8,7 +8,7 @@
     Adam Jarrold -- Developer -- @JohnDoe
 
 # THANKS
-
+Thanks to my students
     <name>
 
 # TECHNOLOGY COLOPHON
