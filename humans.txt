@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
 
+    Adam Jarrold -- Developer -- @JohnDoe
+
 # THANKS
 
     <name>
